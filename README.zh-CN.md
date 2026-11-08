@@ -85,6 +85,6 @@ README 文件是项目介绍，不替代 SKILL.md 和参考文件。发布到 Gi
 - 官网：https://www.qxdcoating.com
 - 邮箱：jerry@qxdcoating.com
 - 电话：+86 13922911498
+- WhatsApp: [+1 646 371 8844](https://wa.me/16463718844)
 
-设备选型、试喷及 Q7/X7 功能
-- WhatsApp：[+1 646 371 8844](https://wa.me/16463718844)咨询，请通过以上渠道联系。
+设备选型、试喷及 Q7/X7 功能咨询，请通过以上渠道联系。
