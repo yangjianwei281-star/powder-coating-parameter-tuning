@@ -6,6 +6,8 @@ An AI skill by Paint Brothers / qxdcoating for electrostatic powder-coating para
 
 Version: 0.1.3
 
+Website article: [Paint Brothers AI Skills for Rotary Cup Selection and Powder Coating Parameters](https://www.qxdcoating.com/article/ai-powder-coating-skills-rotary-cup-parameter-guidance.html).
+
 ## What This Skill Helps With
 
 - Explain voltage and current references for metallic, sand-texture, and smooth-finish powders.
@@ -72,3 +74,5 @@ Paint Brothers / qxdcoating
 - Website: https://www.qxdcoating.com
 - Email: jerry@qxdcoating.com
 - Phone: +86 13922911498
+
+- WhatsApp: [+1 646 371 8844](https://wa.me/16463718844)
