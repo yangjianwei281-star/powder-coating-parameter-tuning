@@ -1,5 +1,7 @@
 # Powder Coating Parameter Tuning
 
+English | [简体中文](README.zh-CN.md)
+
 An AI skill by Paint Brothers / qxdcoating for electrostatic powder-coating parameter guidance.
 
 Version: 0.1.3
