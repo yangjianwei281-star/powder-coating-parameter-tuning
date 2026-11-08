@@ -6,6 +6,8 @@
 
 技能版本：0.1.3。本中文说明不改变技能规则或参数。
 
+官网介绍：[旋杯选型与粉末喷涂参数 AI 技能（英文）](https://www.qxdcoating.com/article/ai-powder-coating-skills-rotary-cup-parameter-guidance.html)。
+
 ## 可以帮助解决哪些问题
 
 - 按金属粉、砂纹粉、平光粉等粉末类型，解释已确认的电压和电流参考。
@@ -84,4 +86,5 @@ README 文件是项目介绍，不替代 SKILL.md 和参考文件。发布到 Gi
 - 邮箱：jerry@qxdcoating.com
 - 电话：+86 13922911498
 
-设备选型、试喷及 Q7/X7 功能咨询，请通过以上渠道联系。
+设备选型、试喷及 Q7/X7 功能
+- WhatsApp：[+1 646 371 8844](https://wa.me/16463718844)咨询，请通过以上渠道联系。
